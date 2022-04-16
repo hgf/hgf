@@ -1,5 +1,5 @@
 <h1 align="center">
-evie wevie ✨<br />
+eve ✨<br />
 <img src="https://komarev.com/ghpvc/?username=hgf" />
 </h1>
 
