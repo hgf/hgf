@@ -11,9 +11,9 @@ Website: https://e.rip/mysnipes ~ https://e.rip/evadiscord
 
 <p align="center">
   
-<img height= "160" src="https://github-readme-stats.vercel.app/api?username=hgf&show_icons=true&include_all_commits=true&theme=dark&update" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api?username=hgf&show_icons=true&include_all_commits=true&theme=dark&update=2" />
 <br />
 <br />
-<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgf&layout=default&theme=dark&update" />
+<img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgf&layout=default&theme=dark&update=2" />
 
 </p>
